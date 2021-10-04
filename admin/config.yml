@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Frisper123/FrisperSiteThings # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: typoographics.netlify.app #Your site on netlify
+  site_domain: fantographics.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
