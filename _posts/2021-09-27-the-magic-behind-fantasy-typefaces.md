@@ -7,4 +7,4 @@ title_color: "#ffffff"
 caption: "An exploration into the popularity of fantasy "
 comments: false
 ---
-Fantasy has always held a magical air about it, it holds a strong area within the UK media
+Fantasy has always held
