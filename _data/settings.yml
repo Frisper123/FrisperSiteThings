@@ -4,7 +4,7 @@ footer_text: "Copyright 2021 Oliver Evans "
 header_feature_image: ../uploads/website-banner.png
 header_text: ""
 header_text_color: "#ffffff"
-bannerheight: 50vmax
+bannerheight: 60vmax
 navbarheight: 55px
 logo: ../uploads/add-a-heading.png
 favicon: /uploads/favicon.ico
