@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Fantasy? "
-date: 2021-09-27T11:17:43.764Z
+date: 2021-10-12T20:10:08.880Z
 image: ../uploads/nikhil-prasad-olbg0ptl_z4-unsplash.jpg
 title_color: "#ffffff"
 caption: "An exploration into the popularity of fantasy "
