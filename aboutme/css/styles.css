@@ -1,0 +1,109 @@
+body {background-color: skyblue; color: snow; margin: 50px;
+
+}
+
+h1 { background-color: snow; color:skyblue; text-align: center;
+  
+}
+
+
+
+.introduction { text-align: center;}
+
+img { width: 250px;
+    border: 5px solid rebeccapurple
+
+}
+main { padding: 12px;
+
+}
+
+.subtitle { text-align: center;
+
+}
+.mainbody {display:block;
+    border: 3px solid snow;
+    color: snow;
+    background-color: rebeccapurple;
+    margin-bottom: 30px;
+    margin-top: 80px;
+    margin-right: 255px;
+padding-left: 15px;
+padding-right: 15px;
+flex-basis: 150px;
+border-style: dashed; }
+
+main {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 60%;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+@media screen and (max-width:600px) {
+    main {
+        width: 100%; 
+    }
+
+}
+
+.box {
+    position:relative;
+}
+.credit {
+    color:rebeccapurple;
+    position:absolute; 
+    bottom:0; 
+    right:0;
+    background-color: snow;
+    font-size: 20px;
+    
+
+    
+}
+
+.img2 {
+    width: 250px;
+    border: 5px solid rebeccapurple;
+    
+}
+
+.Hobbies {display:block;
+    border: 3px solid snow;
+    margin-bottom: 30px;
+    margin-top: 300px;
+    margin-right: 255px;
+padding-left: 15px;
+padding-right: 15px;
+flex-basis: 150px;
+border-style: dashed;
+
+}
+
+.Hobbies {
+    color: snow;
+    background-color: rebeccapurple;
+}
+
+
+.Enjoy {display:block;
+    border: 3px solid snow;
+    background-color: rebeccapurple;
+    margin-bottom: 30px;
+    margin-top: 315px;
+    margin-right: 255px;
+padding-left: 15px;
+padding-right: 15px;
+flex-basis: 150px;
+border-style: dashed;
+
+
+
+
+}
+
+.Handbook {
+    width: 70px;
+    height: 60px;
+}
