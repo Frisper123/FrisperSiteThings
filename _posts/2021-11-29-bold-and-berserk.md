@@ -6,4 +6,4 @@ image: ../uploads/berserk-header.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-Main body text
+Fantasy media isn't just limited
