@@ -20,4 +20,4 @@ This style has a novelty side to it by addding a metallic texture to the font an
 
 In this case then, any potential reader would gather the tone and themes seen in Berserk and it would help them make their decision as to whether they'll make the purchase and invest their time in the story. 
 
-On the other hand,
+On the other hand, there is another main English edition of the manga, The Deluxe Edition.
