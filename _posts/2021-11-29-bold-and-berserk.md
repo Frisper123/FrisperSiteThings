@@ -12,6 +12,8 @@ Its take on dark fantasy has sent ripples through the genre for years to come an
 
 ![The title of Berserk as seen on the singular English volumes ](../uploads/singular-volume-berserk-.jpeg)
 
-![](../uploads/guts-w-dragonslayer-.png)
+![]()
 
 This style has a novelty side to it by addding a metallic texture to the font and including blood splatters in the background. There is limited use of serif and instead a low descender line that really emphasises the ends of the letters jutting out. With the metallic shine and shape the lettering looks sharp but brutal. Those that are fans of such a thing would already be interested because of this and would be drawn in. The designers have done a good job of presenting the medieval fantasy elements with this look as well as representing the protagonist's brutalistic nature along with his choice of weapon.
+
+![](../uploads/guts-w-dragonslayer-.png)
