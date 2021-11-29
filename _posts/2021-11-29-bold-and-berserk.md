@@ -10,6 +10,8 @@ Fantasy media isn't just limited to the western world and has done very well in 
 
 Its take on dark fantasy has sent ripples through the genre for years to come and has become a cult classic. Because of this each edition of the manga has to have iconic and memorable iconography that reflects the content as well, especially the protagonist. With such as prominent and well done main character it is no wonder that the designers didn't want to lose that when it came to the designs of the physical mangas. With two main types of the manga there have been two main instances of the typography and so first we shall look at the single volume style. 
 
-![](../uploads/singular-volume-berserk-.jpeg)
+![The title of Berserk as seen on the singular English volumes ](../uploads/singular-volume-berserk-.jpeg)
 
-This style has a novelty side to it by addding a metallic texture to the font and including blood splatters in the background. There is limited use of serif and instead a low descender line that really emphasises the ends of the letters jutting out. With the metallic shine and shape the lettering looks sharp but brutal. Those that are fans of such a thing would already be interested because of this and would be drawn in. The designers have done a good job of presenting the medieval fantasy elements with this look
+![](../uploads/guts-w-dragonslayer-.png)
+
+This style has a novelty side to it by addding a metallic texture to the font and including blood splatters in the background. There is limited use of serif and instead a low descender line that really emphasises the ends of the letters jutting out. With the metallic shine and shape the lettering looks sharp but brutal. Those that are fans of such a thing would already be interested because of this and would be drawn in. The designers have done a good job of presenting the medieval fantasy elements with this look as well as representing the protagonist's brutalistic nature along with his choice of weapon.
