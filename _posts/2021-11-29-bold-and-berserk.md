@@ -22,4 +22,4 @@ In this case then, any potential reader would gather the tone and themes seen in
 
 ![](../uploads/deluxe-cover.jpeg)
 
-As well as this, the mangaka's (author) name is at the bottom of the cover and is not in a serif. It is clear against the black and draws in current fans who associate the work of fantasy with him quite heavily. The use of red also draws in the emotions of rage, passion and anger as well as representing blood. These are all what one would be able to assocaite with the manga, so despite the simplicity relative to the previous title it is affective in displaying everything about Berserk.
+As well as this, the mangaka's (author) name is at the bottom of the cover and is not in a serif. It is clear against the black and draws in current fans who associate the work of fantasy with him quite heavily. The use of red also draws in the emotions of rage, passion and anger as well as representing blood. These are all what one would be able to associate with the manga, so despite the simplicity relative to the previous title it is affective in displaying everything about Berserk.
