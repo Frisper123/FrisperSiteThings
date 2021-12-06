@@ -6,4 +6,8 @@ image: ../uploads/printing-press.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-Fonts have made their mark across the whole world and have brought in associations and preconceptions on the texts they form.
+Fonts have made their mark across the whole world and have brought in associations and preconceptions on the texts they form. In terms of fantasy there are many fonts that have made an impact on the genre and are seen throughout publications, especially their covers. 
+
+First of all there are those fonts that aren't so far removed from what one may expect from a usual publication , such as educational. George R.R. Martin's 'A Song of Ice and Fire' can again be pulled in as an example of such fonts. What seems to be employed is a slightly modified version of Trajan Pro in the cover for both the author's name and the book title, a serif font. 
+
+It is modified in the sense that there are instances of serif flourishes being used on letters and in places on them that are not typical to the original Trajan Pro. This can be observed specifically on the upper case
