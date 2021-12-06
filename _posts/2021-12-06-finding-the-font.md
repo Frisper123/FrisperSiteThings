@@ -10,4 +10,6 @@ Fonts have made their mark across the whole world and have brought in associatio
 
 First of all there are those fonts that aren't so far removed from what one may expect from a usual publication , such as educational. George R.R. Martin's 'A Song of Ice and Fire' can again be pulled in as an example of such fonts. What seems to be employed is a slightly modified version of Trajan Pro in the cover for both the author's name and the book title, a serif font. 
 
+![](../uploads/trajan-pro-demo-.jpeg)
+
 It is modified in the sense that there are instances of serif flourishes being used on letters and in places on them that are not typical to the original Trajan Pro. This can be observed specifically on the upper case N in which uses serif on both its end points normally, but as seen on 'A Song of Ice and Fire' has a serif flourish on the middle point too.
