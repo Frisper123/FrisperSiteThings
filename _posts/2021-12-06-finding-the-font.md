@@ -23,3 +23,5 @@ The imagery and the typography of the book cover flow well together and as a who
 Another and final example is that of the Percy Jackson covers. They employ a rather unique looking font called windlass. Again it is a base font that has been modified in order to add that more fantastical element to reflect  the content. In this case the almost runic presentation of the lettering reflects the content in the books well as they are reminiscent of the typography used by Greeks and Romans to an extent. 
 
 ![](../uploads/percy-jackson-example.jpeg)
+
+ There is the novelty aspect of the typography as seen in the O of 'Jackson' reflecting the character and his connection to the Greek god Poseiden. As well as this the novelty aspect of the typography extends to the
