@@ -19,3 +19,9 @@ A more flamboyant and "flashy" use of font can be seen in the 'Earthsea' trilogy
 ![](../uploads/earthsea-example.webp)
 
 The imagery and the typography of the book cover flow well together and as a whole create this imagery of mystery and possibly power. Magic obviously being a key point when looking at the cover is well conveyed by the use of Hohenzollern due to its runic/handwritten nature, as if written by a wise wizard.
+
+Another and final example is that of the Percy Jackson covers. They employ a rather unique looking font called windlass. Again it is a base font that has been modified in order to add that more fantastical element to reflect  the content. In this case the almost runic presentation of the lettering reflects the content in the books well as they are reminiscent of the typography used by Greeks and Romans to an extent. 
+
+![](../uploads/percy-jackson-example.jpeg)
+
+ There is the novelty aspect of the typography as seen in the O of 'Jackson' reflecting the character and his connection to the Greek god Poseiden. As well as this, the novelty aspect of the typography extends to the C and E within the title, working with the serif to create a uniform look that is still unique to the books.
