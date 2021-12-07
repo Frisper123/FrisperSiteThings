@@ -24,4 +24,4 @@ Another and final example is that of the Percy Jackson covers. They employ a rat
 
 ![](../uploads/percy-jackson-example.jpeg)
 
- There is the novelty aspect of the typography as seen in the O of 'Jackson' reflecting the character and his connection to the Greek god Poseiden. As well as this the novelty aspect of the typography extends to the
+ There is the novelty aspect of the typography as seen in the O of 'Jackson' reflecting the character and his connection to the Greek god Poseiden. As well as this, the novelty aspect of the typography extends to the C and E within the title, working with the serif to create a uniform look that is still unique to the books.
