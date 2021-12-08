@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Journey of Embossing and Debossing "
-date: 2021-12-08T02:40:26.023Z
+date: 2021-11-23T02:40:00.000Z
 image: ../uploads/embossed-pic.jpeg
 title_color: "#ffffff"
 comments: false
