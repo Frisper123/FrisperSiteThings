@@ -10,4 +10,8 @@ Typography also encompasses what type of colours are used within the lettering, 
 
 The colours are associated with an unflinching and pure clearness that goes hand in hand with richness. The colours also extend to significance in other cultures than just in the west, specifically China in which the significance of gold and silver is shown throughout their culture. In ancient China alchemical traditions saw the belief that drinking an elixir made from gold would equal immortality. 
 
-In terms of typography and colour in print media, traditions depicting gold as significant and rich means that one can see wonder and amazement in the colour choice on book covers. As the inspiration of the
+In terms of typography and colour in print media, traditions depicting gold as significant and rich means that one can see wonder and amazement in the colour choice on book covers. As the inspiration of this post's title, Terry Pratchett's 'The Colour of Magic' is taking the forefront of this study. Like many works written by famous author's, the cover takes Pratchett's name as the front and centre (well top) of the cover and uses its unique typography on it. 
+
+![](../uploads/colour-of-magic.jpeg)
+
+The use of silver with a metallic finish links it in with the world that Pratchett has created (the famous Discworld) and as stated above can excite the potential reader with their inherent understanding of silver and its promise of something magical. Using such a colour on the author's name also yields a great reaction, solidifying his name as legendary, the master of a series of books enjoyed by so many.
