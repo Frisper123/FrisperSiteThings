@@ -6,4 +6,4 @@ image: ../uploads/death-oic.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-The
+Typography also encompasses what type of colours are used within the lettering, helping convey certain emotions by drawing on already established sociatal implications.
